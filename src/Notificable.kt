@@ -1,0 +1,4 @@
+interface Notificable {
+
+    fun enviarNotificacion()
+}
